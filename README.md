@@ -1,11 +1,13 @@
 <img src=https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif>
 
-<img size=2px src=https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif> ### Hi there I'm Lups, a cyber security and programmer student. 👋
+### Hi there I'm Lups, a cyber security and programmer student. 👋
 
 My GitHub stats are:
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrLups&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<img src=https : //profile-counter.glitch.me/MrLups/count.svg>
 
 🌱 I’m currently learning C, Python and Assembly.
 
