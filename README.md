@@ -8,7 +8,7 @@ My GitHub stats are:
 
 Top used languanges:
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MrLups&layout=compact&theme=radical />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MrLups&layout=compact&theme=radical/>
 
 
 🌱 I’m currently learning C, Python and Assembly.
