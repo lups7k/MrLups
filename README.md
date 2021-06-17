@@ -14,4 +14,4 @@ Top used languanges:
 🌱 I’m currently learning C, Python and Assembly.
 
 
-I'm currently using Arch Linux with KDE Plasma and Bspwm
+I'm currently using Arch Linux with Bspwm and KDE Plasma
