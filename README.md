@@ -15,3 +15,5 @@ Top used languanges:
 
 
 I'm currently using Arch Linux with Kde Plasma and Bspwm
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MrLups.svg?style=social&label=Twitter)](https://twitter.com/MrLups)
