@@ -11,7 +11,7 @@ Top used languanges:
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLups&hide=html,css,javascript&layout=compact&theme=radical"/>
 
 
-🌱 I’m currently learning C, Python and Assembly.
+🌱 I’m currently learning C/C++ and Assembly.
 
 
 I'm currently using Arch Linux with Kde Plasma and Bspwm
