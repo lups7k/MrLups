@@ -1,6 +1,6 @@
 <img src=https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif />
 
-### Hi there I'm Lups, a cyber security and programmer student. 👋
+### Hi there I'm Lups, I like low/high-level development, CyberSecurity and mathematics. 👋
 
 My GitHub stats are:
 
@@ -17,6 +17,6 @@ Top used languanges:
 I'm currently using Arch Linux with Kde Plasma and Bspwm
 
 Technologies I use:
-  Node.js, C, C++, Assembly, Svelte, React, JavaScript, Python, HTML, CSS and others. 
+  Node.js, C, C++, Assembly, SvelteJS, ReactJS, JavaScript, Python, HTML, CSS and others. 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MrLups.svg?style=social&label=Twitter)](https://twitter.com/MrLups)
