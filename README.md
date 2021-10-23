@@ -16,4 +16,7 @@ Top used languanges:
 
 I'm currently using Arch Linux with Kde Plasma and Bspwm
 
+Technologies I use:
+  Node.js, C, C++, Assembly, Svelte, React, JavaScript, Python, HTML, CSS and others. 
+
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MrLups.svg?style=social&label=Twitter)](https://twitter.com/MrLups)
