@@ -17,7 +17,7 @@ Top used languanges:
 🌱 I’m currently learning Golang and C++.
 
 
-I'm currently using Arch Linux with Kde Plasma and Bspwm
+I'm currently using Arch Linux with Kde Plasma and Bspwm.
 
 Technologies I use:
   Node.js, C, C++, Assembly, SvelteJS, ReactJS, JavaScript, Python, Golang, MD, TeXiT, HTML, CSS and others. 
