@@ -14,12 +14,7 @@ Top used languanges:
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLups&hide=html,css,javascript&layout=compact&theme=radical"/>
 
 
-🌱 I’m currently learning Golang and C++.
-
-
 I'm currently using Arch Linux with Kde Plasma and Bspwm.
 
-Technologies I use:
-  Node.js, C, C++, Assembly, SvelteJS, ReactJS, JavaScript, Python, Golang, MD, TeXiT, HTML, CSS and others. 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MrLups.svg?style=social&label=Twitter)](https://twitter.com/MrLups)
