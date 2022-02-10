@@ -1,7 +1,7 @@
 <img src=https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif />
 
 ## Hi there, I'm Luca. 👋
-### I'm a low/high-level development, CyberSecurity and Mathematics fan.
+### I'm a low/high-level development, CyberSecurity physics and Mathematics fan.
 
 
 
