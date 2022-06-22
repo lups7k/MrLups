@@ -1,4 +1,4 @@
-<img src=https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif />
+<img src=https://i.pinimg.com/originals/5a/eb/e8/5aebe8d9ab4c7591e609496f1dca0d0b.gif />
 
 ## Hi there, I'm Luca. 👋
 ### I'm a low/high-level development, CyberSecurity, physics and Mathematics fan.
